@@ -1,0 +1,13 @@
+.welcomeText {
+    padding: 0% 5% 0% 5%;
+}
+
+
+.descContainer {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.inputContainer {
+    margin-top: 10px;
+}
